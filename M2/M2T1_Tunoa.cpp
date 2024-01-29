@@ -8,11 +8,14 @@ Robert Tunoa-Scanlan
 
 #include <iostream>
 #include <string>
+#include <iomanip>
 using namespace std;
 
 int main()
 {
     cout << "M2T1" << endl;
+    cout << "Thank you for dining with us" << endl;
+    cout << "----------------------------" << endl;
     // set up variables
     string meal = "Cheese Burger";
     // all in $, except the percent
@@ -22,11 +25,14 @@ int main()
     double total = 0;
 
     // do calculations
-
+    tax_amount = meal_price * tax_percent;
+    total = meal_price + tax_amount;
     // print the receipt
-    // TODO
+    // print this once to set the decimeals to exactly 2
+    cout << fixed << setprecision(2);
     cout << meal     << "\t$" << meal_price << endl;
     cout << "Tax:"    << "\t\t$" << tax_amount << endl;
+    cout << "----------------------------" << endl;
     cout << "Total:"  << "\t\t$" << total << endl;
 
     return 0;
