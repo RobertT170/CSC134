@@ -1,3 +1,10 @@
+/*
+M2HW1
+Question 2
+Pizza Party
+Robert Tunoa
+2/12/24
+*/
 #include <iostream>
 
 using namespace std;
