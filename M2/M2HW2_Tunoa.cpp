@@ -12,7 +12,7 @@ using namespace std;
 int main() {
     int numPizzas, slicesPerPizza, numVisitors;
 
-    // Get input from the user
+    // Ask for numpizza, slicesperpizza, and numvisitors
     cout << "Enter the number of pizzas you ordered: ";
     cin >> numPizzas;
 
@@ -32,9 +32,11 @@ int main() {
     int leftoverSlices = totalSlices - slicesNeeded;
 
     // Display the result
-    if (leftoverSlices >= 0) 
+    if (leftoverSlices >= 0) {
         cout << "You have " << leftoverSlices << " leftover slices of pizza." << endl;
+    } else { cout << "You ran out of pizza ";
 
+    }
 
     return 0;
 }
