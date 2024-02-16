@@ -1,6 +1,6 @@
 /*
 M2HW1
-Question 3
+Question 1
 Cheering Program
 Robert Tunoa
 2/12/24
