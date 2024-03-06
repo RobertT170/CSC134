@@ -1,0 +1,98 @@
+:: StoryTitle
+New Story
+
+
+:: StoryData
+{
+  "ifid": "8E58DAE0-E0E0-41D3-A5AD-D7E2DEA3211A",
+  "format": "Harlowe",
+  "format-version": "3.3.8",
+  "start": "Cell",
+  "zoom": 1
+}
+
+
+:: Advance {"position":"400,600","size":"100,100"}
+The knight came upon a dark, forbidding castle, shrouded in a miasma of smoke and flame. The castle's walls were blackened and scarred, a testament to the power of the Flame Keeper that resided within. The knight knew that this was the place where the final battle would take place. The knight fought valiantly, but the Fire Keeper's power was too great. Their armor began to glow red-hot, and their strength started to wane. With a final, desperate strike, the knight attempted to pierce the Fire Keeper's defenses, but the beast swatted the knight away, sending them crashing to the ground.
+
+
+
+
+
+:: Beginning {"position":"800,300","size":"100,100"}
+The young knight stole a horse and rode off into the night, determined to find the real criminal and bring them to justice. But as he traveled, he heard rumors of a powerful and evil sorcerer known as the Flame Keeper, who was wreaking havoc on the world.
+The young knight knew that he had to stop the Flame Keeper before it was too late. He set off on a perilous journey, facing many dangers along the way. He crossed treacherous mountains, fought off dangerous creatures, and navigated dark forests.
+
+
+<img src="https://robertt170.github.io//Image 2.jfif" alt="Italian Trulli"width="500">
+
+
+[[Look for the Flame Keepers Lair->Journey]]
+
+
+[[Find better weapons->Master Sword]]
+
+
+:: Castle {"position":"800,800","size":"100,100"}
+The Fire Keeper rose from his throne, the air around him shimmering with heat. With a roar, he unleashed a torrent of flames, engulfing the throne room in a swirling inferno. The knight dodged and weaved through the flames, the Master Sword's magic protecting the knight from the blistering heat.
+The knight pressed on, striking with precision and speed, the Master Sword leaving a trail of sparks in its wake. The Fire Keeper retaliated, conjuring a vortex of fireballs that rained down upon the knight. The knight skillfully deflected the fireballs, the blade's enchantment dispersing the flames upon contact.
+
+<img src="https://robertt170.github.io//Image%207.jfif" alt="Italian Trulli"width="500">
+
+[[Good Ending]]
+
+
+:: Cell {"position":"800,100","size":"100,100"}
+Once upon a time, in a kingdom far, far away, there was a young knight with no name. He was an orphan, taken in by the kingdom's knights and trained in the art of combat. However, the young knight was framed for a crime he did not commit and was thrown into the kingdom's darkest dungeon.
+Despite the hopelessness of his situation, the young knight never lost hope. He spent his days planning his escape, determined to clear his name and restore his honor.
+One day, the young knight saw his chance. A guard had forgotten to lock his cell properly, and he was able to break free. He quickly gathered his belongings and snuck out of the dungeon, avoiding the guards and making his way to the kingdom's stables.
+
+<img src="https://robertt170.github.io//IMage 1.jfif" alt="Italian Trulli"width="500">
+
+[[Beginning]]
+
+
+:: Flame Lair {"position":"800,600","size":"100,100"}
+The knight came upon a dark, forbidding castle, shrouded in a miasma of smoke and flame. The castle's walls were blackened and scarred, a testament to the power of the Flame Keeper that resided within. The knight knew that this was the place where the final battle would take place.
+
+<img src="https://robertt170.github.io//Image%206.jfif" alt="Italian Trulli"width="500">
+
+[[Enter The Castle->Castle]]
+
+
+:: Forest {"position":"1100,600","size":"100,100"}
+After days of searching, the knight stumbled upon a hidden glade, where a pedestal stood, bathed in a beam of sunlight. Upon the pedestal lay the Master Sword, a weapon of unparalleled power, forged by the gods themselves. The knight knew that this was the key to defeating the Flame Keeper and restoring peace to the kingdom.
+With a sense of reverence and purpose, the knight took hold of the Master Sword. It pulsed with an inner light, as if acknowledging its new master. The knight, now armed with the legendary weapon, felt a newfound sense of determination and hope.
+
+<img src="https://robertt170.github.io//Image%204.jfif" alt="Italian Trulli"width="500">
+
+[[Adance to Flame lair->Flame Lair]] 
+
+
+
+:: Good Ending {"position":"800,1000","size":"100,100"}
+The flame has been put out.
+The chaos cycle ends......
+
+
+
+<img src="https://robertt170.github.io//Image%208.jfif" alt="Italian Trulli"width="800">
+
+
+:: Journey {"position":"500,400","size":"100,100"}
+Despite the challenges he faced, the young knight never wavered in his determination to complete his mission. He was driven by a sense of justice and a desire to protect the innocent. After many weeks of traveling, the young knight finally found the Flame Keeper's lair. 
+
+<img src="https://robertt170.github.io//Image%205.jfif" alt="Italian Trulli"width="500">
+
+[[Go back ->Beginning]]
+
+[[Advance]]
+
+
+:: Master Sword {"position":"1100,400","size":"100,100"}
+The knight had heard legends of a magical sword, said to be hidden deep within the kingdom's darkest forest. The sword was said to have the power to defeat any enemy, no matter how strong.
+With renewed purpose, the knight set off on a quest to find the sword. He journeyed through the dense forest, facing many dangers along the way. He fought off ferocious beasts, navigated treacherous terrain, and solved complex puzzles.
+
+<img src="https://robertt170.github.io//Image%203.jfif" alt="Italian Trulli"width="500">
+
+[[Enter the Forest->Forest]]
